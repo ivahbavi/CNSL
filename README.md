@@ -1,3 +1,3 @@
 # CNSL
-Reository for CNSL codes
+Repository for CNSL codes
 By Vaibhavi Bhardwaj- TCOD-07
